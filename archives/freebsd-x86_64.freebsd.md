@@ -1,5 +1,7 @@
 # freebsd-x86_64.freebsd
 
+https://downloads.plex.tv/plex-media-server-new/1.43.0.10467-2b1ba6e69/freebsd/PlexMediaServer-1.43.0.10467-2b1ba6e69-FreeBSD-amd64.tar.bz2
+
 https://downloads.plex.tv/plex-media-server-new/1.42.2.10156-f737b826c/freebsd/PlexMediaServer-1.42.2.10156-f737b826c-FreeBSD-amd64.tar.bz2
 
 https://downloads.plex.tv/plex-media-server-new/1.42.1.10060-4e8b05daf/freebsd/PlexMediaServer-1.42.1.10060-4e8b05daf-FreeBSD-amd64.tar.bz2

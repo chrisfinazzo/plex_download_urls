@@ -1,5 +1,7 @@
 # linux-x86.synology-dsm7.md
 
+https://downloads.plex.tv/plex-media-server-new/1.43.0.10467-2b1ba6e69/synology-dsm7/PlexMediaServer-1.43.0.10467-2b1ba6e69-x86_DSM7.spk
+
 https://downloads.plex.tv/plex-media-server-new/1.42.2.10156-f737b826c/synology-dsm7/PlexMediaServer-1.42.2.10156-f737b826c-x86_DSM7.spk
 
 https://downloads.plex.tv/plex-media-server-new/1.42.1.10060-4e8b05daf/synology-dsm7/PlexMediaServer-1.42.1.10060-4e8b05daf-x86_DSM7.spk

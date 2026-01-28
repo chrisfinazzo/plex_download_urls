@@ -1,5 +1,7 @@
 # linux-armv7hf.wd-mirror.md
 
+https://downloads.plex.tv/plex-media-server-new/1.43.0.10467-2b1ba6e69/wd/PlexMediaServer-1.43.0.10467-2b1ba6e69-WDMyCloudMirror.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.42.2.10156-f737b826c/wd/PlexMediaServer-1.42.2.10156-f737b826c-WDMyCloudMirror.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.42.1.10060-4e8b05daf/wd/PlexMediaServer-1.42.1.10060-4e8b05daf-WDMyCloudMirror.bin
