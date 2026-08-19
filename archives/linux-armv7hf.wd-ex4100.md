@@ -1,5 +1,7 @@
 # linux-armv7hf.wd-ex4100.md
 
+https://downloads.plex.tv/plex-media-server-new/1.43.3.10896-cb3ebc72d/wd/PlexMediaServer-1.43.3.10896-cb3ebc72d-WDMyCloudEX4100.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.43.3.10861-07dfddaeb/wd/PlexMediaServer-1.43.3.10861-07dfddaeb-WDMyCloudEX4100.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.43.3.10828-00f62d37d/wd/PlexMediaServer-1.43.3.10828-00f62d37d-WDMyCloudEX4100.bin

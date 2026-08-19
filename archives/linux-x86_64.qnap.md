@@ -1,5 +1,7 @@
 # linux-x86_64.qnap.md
 
+https://downloads.plex.tv/plex-media-server-new/1.43.3.10896-cb3ebc72d/qnap/PlexMediaServer-1.43.3.10896-cb3ebc72d-x86_64.qpkg
+
 https://downloads.plex.tv/plex-media-server-new/1.43.3.10861-07dfddaeb/qnap/PlexMediaServer-1.43.3.10861-07dfddaeb-x86_64.qpkg
 
 https://downloads.plex.tv/plex-media-server-new/1.43.3.10828-00f62d37d/qnap/PlexMediaServer-1.43.3.10828-00f62d37d-x86_64.qpkg
